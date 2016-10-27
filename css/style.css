@@ -6,5 +6,9 @@ p {
 	color: gray;
 }
 body {
-	background: red;
+	background: greenyellow;
+}
+
+h2 {
+	font-size: 80px;
 }
